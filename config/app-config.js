@@ -10,7 +10,7 @@ if(process.env.NODE_ENV == 'DEV'){
 } else if(process.env.NODE_ENV == 'LIVE'){
     appConstants.port = '3002';
 } else {
-    appConstants.port = '3001';
+    appConstants.port = '3000';
 }
 
 appConstants.dbConfig = {
