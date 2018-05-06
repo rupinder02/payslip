@@ -1,2 +1,2 @@
 # payslip
-this is a payslip generator
+This is a payslip generator
